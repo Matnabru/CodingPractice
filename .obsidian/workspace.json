@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "9a8ea65411ef4e79",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ff3a56aa6a0b9e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "860a6824f8aab7c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roadmap/Arrays & Hashing/Contains Duplicate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3517a463e3177fb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f7be4f6d749888f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6edbec808240665a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "339f04d542cf7de9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97dec61aebee698a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d0fa7529f9604ea1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee14018b6f589254",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1ff01ce3b94c158",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Roadmap/Arrays & Hashing/Contains Duplicate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "178d977362d05a19",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Roadmap/Arrays & Hashing/Contains Duplicate.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c7ed54ad2dab414",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9d0d2606b26830da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Roadmap/Arrays & Hashing/Contains Duplicate.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "860a6824f8aab7c0",
+  "lastOpenFiles": [
+    "Roadmap/List of covered Tasks.md",
+    "Roadmap/Arrays & Hashing/Contains Duplicate.md",
+    "Welcome.md",
+    "Roadmap/Arrays & Hashing",
+    "Roadmap",
+    "desktop.ini"
+  ]
+}
